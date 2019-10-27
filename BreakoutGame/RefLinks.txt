@@ -2,3 +2,8 @@ https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_J
 http://gamecodeschool.com/android/coding-a-breakout-game-for-android/
 https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript/Create_the_Canvas_and_draw_on_it
 https://github.com/end3r/Gamedev-Canvas-workshop
+https://www.w3schools.com/jsref/jsref_random.asp
+https://stackoverflow.com/questions/21589181/trying-to-create-a-pause-button-for-javascript-game
+https://www.w3schools.com/js/js_operators.asp
+https://stackoverflow.com/questions/16089421/simplest-way-to-detect-keypresses-in-javascript
+https://stackoverflow.com/questions/24386354/execute-js-code-after-pressing-the-spacebar

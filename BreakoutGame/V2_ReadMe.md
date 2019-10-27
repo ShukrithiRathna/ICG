@@ -2,7 +2,7 @@
 
 * Game play begins only afer pressing 'Okay'.
 * Pressing Space Bar during game play pauses it.
-* PLay can be resumed by pressing 'Okay'
+* Play can be resumed by pressing 'Okay'
 * Bricks have random numbers associated with them.  Hit that many times to break brick.
 * Speed of ball increases when lives are lost.
 * Paddle can be moved using the mouse as well. 
