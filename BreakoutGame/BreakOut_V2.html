@@ -54,7 +54,7 @@
 //Begin Game Play
         if(Begin)
         {
-            alert("Click Okay to begin");
+            alert("Click OK to begin");
             Begin=false;
         }
 //Check for Game Pause
@@ -62,7 +62,7 @@
         {
             if(e.keyCode == 32)
             {
-                alert("Game Paused. Click Okay to resume playing");
+                alert("Game Paused. Click OK to resume playing");
             }
         } 
 //Detect Pressing of keys
@@ -243,6 +243,7 @@
             y += dy;
             requestAnimationFrame(Draw);
         }
+        
         Draw();
 </script>
 </body>
