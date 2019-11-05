@@ -15,11 +15,13 @@
 ##### Fractal Graphics
     * Sierpinski's Triangle - Program generates Triangle on input of triangle coordinates and degree.
 ##### Bayer's Demosaic 
-    * Given an RGB image matrix, program returns Demosaiced matrix or image.
+    * Given an RGB image matrix, program returns demosaiced matrix or image.
     * Grid follows RGGB pattern.
 
 ##### 3. WebGL Programs
-
+    * Basic programs:
+          * Star
+          * Rectangle
     * Rotating Cube with different images on each face.
     * Display an image (selfie).
 
