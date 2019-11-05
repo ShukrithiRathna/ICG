@@ -29,3 +29,10 @@
 
     * Aim: Develop an interactive, user-friendly game in the language of your choice.
     * Game: Desktop Version of the popular Android Game - BreakOut
+
+#### Midsem
+    * Display the Indian National Flag in the language of your choice.
+
+#### Endsem
+    * Display 25 rectangles filled with different shades of red in the language of your choice.
+    * WebGL - Display two triangles with a common side.
